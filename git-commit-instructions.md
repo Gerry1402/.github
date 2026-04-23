@@ -22,6 +22,4 @@
 
 ## Common Imperative Verbs to Start the Subject Line
 
-`Add` · `Fix` · `Remove` · `Update` · `Refactor` · `Rename` · `Move` ·
-`Revert` · `Merge` · `Release` · `Improve` · `Extract` · `Replace` ·
-`Simplify` · `Document` · `Test` · `Enable` · `Disable` · `Expose` · `Hide`
+`Add` · `Fix` · `Remove` · `Update` · `Refactor` · `Rename` · `Move` · `Revert` · `Merge` · `Release` · `Improve` · `Extract` · `Replace` · `Simplify` · `Document` · `Test` · `Enable` · `Disable` · `Expose` · `Hide`
